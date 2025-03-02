@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| Teitur Allan Dam Jacobsen | 154073 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
